@@ -1,0 +1,5 @@
+[default]
+entity = syniez
+project = erp_depth
+base_url = https://api.wandb.ai
+
